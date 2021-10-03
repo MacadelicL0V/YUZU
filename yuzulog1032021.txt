@@ -1,0 +1,314 @@
+[   0.181815] Input <Info> input_common\gcadapter\gc_adapter.cpp:Adapter:21: GC Adapter Initialization started
+[   0.246182] Input <Info> input_common\udp\client.cpp:Client:164: Udp Initialization started
+[   0.246197] Input <Info> input_common\udp\client.cpp:StartCommunication:309: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.265504] Frontend <Info> yuzu\main.cpp:GMainWindow:232: yuzu Version: yuzu 767
+[   0.265510] Frontend <Info> yuzu\main.cpp:GMainWindow:247: Host CPU: AMD Ryzen 7 3800X 8-Core Processor              | AVX2 | FMA
+[   0.265544] Frontend <Info> yuzu\main.cpp:GMainWindow:249: Host OS: Windows 10 (10.0)
+[   0.265557] Frontend <Info> yuzu\main.cpp:GMainWindow:251: Host RAM: 15.91 GB
+[   0.265558] Frontend <Info> yuzu\main.cpp:GMainWindow:253: Host Swap: 24.41 GB
+[   0.780229] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.5.0) applied successfully
+[   0.785885] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[   0.841016] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.0.0) applied successfully
+[   0.850946] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.0.0) applied successfully
+[   0.863206] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.5.0) applied successfully
+[   0.872141] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[   0.877698] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.0.0) applied successfully
+[   0.901534] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.0.0) applied successfully
+[ 486.803742] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 486.804205] Frontend <Info> yuzu\main.cpp:OnGameListOpenFolder:1654: Opening Mod Data path for program_id=0100e65002bb8000
+[ 515.731553] Frontend <Info> yuzu\main.cpp:BootGame:1338: yuzu starting...
+[ 515.732446] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 515.738362] Config <Info> common\settings.cpp:LogSettings:41: yuzu Configuration:
+[ 515.738365] Config <Info> common\settings.cpp:operator ():34: Controls_UseDockedMode: true
+[ 515.738366] Config <Info> common\settings.cpp:operator ():34: System_RngSeed: 0
+[ 515.738366] Config <Info> common\settings.cpp:operator ():34: System_CurrentUser: 0
+[ 515.738367] Config <Info> common\settings.cpp:operator ():34: System_LanguageIndex: 1
+[ 515.738369] Config <Info> common\settings.cpp:operator ():34: System_RegionIndex: 1
+[ 515.738369] Config <Info> common\settings.cpp:operator ():34: System_TimeZoneIndex: 0
+[ 515.738370] Config <Info> common\settings.cpp:operator ():34: Core_UseMultiCore: true
+[ 515.738370] Config <Info> common\settings.cpp:operator ():34: CPU_Accuracy: 1
+[ 515.738371] Config <Info> common\settings.cpp:operator ():34: Renderer_UseResolutionFactor: 1
+[ 515.738371] Config <Info> common\settings.cpp:operator ():34: Renderer_UseSpeedLimit: true
+[ 515.738372] Config <Info> common\settings.cpp:operator ():34: Renderer_SpeedLimit: 100
+[ 515.738372] Config <Info> common\settings.cpp:operator ():34: Renderer_UseDiskShaderCache: true
+[ 515.738373] Config <Info> common\settings.cpp:operator ():34: Renderer_GPUAccuracyLevel: 0
+[ 515.738373] Config <Info> common\settings.cpp:operator ():34: Renderer_UseAsynchronousGpuEmulation: true
+[ 515.738373] Config <Info> common\settings.cpp:operator ():34: Renderer_NvdecEmulation: 2
+[ 515.738374] Config <Info> common\settings.cpp:operator ():34: Renderer_AccelerateASTC: true
+[ 515.738375] Config <Info> common\settings.cpp:operator ():34: Renderer_UseVsync: false
+[ 515.738377] Config <Info> common\settings.cpp:operator ():34: Renderer_ShaderBackend: 1
+[ 515.738377] Config <Info> common\settings.cpp:operator ():34: Renderer_UseAsynchronousShaders: false
+[ 515.738378] Config <Info> common\settings.cpp:operator ():34: Renderer_AnisotropicFilteringLevel: 0
+[ 515.738378] Config <Info> common\settings.cpp:operator ():34: Audio_OutputEngine: auto
+[ 515.738379] Config <Info> common\settings.cpp:operator ():34: Audio_OutputDevice: auto
+[ 515.738379] Config <Info> common\settings.cpp:operator ():34: DataStorage_UseVirtualSd: true
+[ 515.738380] Config <Info> common\settings.cpp:operator ():38: DataStorage_CacheDir: C:\Users\Tim\AppData\Roaming\yuzu\cache
+[ 515.738381] Config <Info> common\settings.cpp:operator ():38: DataStorage_ConfigDir: C:\Users\Tim\AppData\Roaming\yuzu\config
+[ 515.738382] Config <Info> common\settings.cpp:operator ():38: DataStorage_LoadDir: C:\Users\Tim\AppData\Roaming/yuzu/load/
+[ 515.738382] Config <Info> common\settings.cpp:operator ():38: DataStorage_NANDDir: C:\Users\Tim\AppData\Roaming/yuzu/nand/
+[ 515.738383] Config <Info> common\settings.cpp:operator ():38: DataStorage_SDMCDir: C:\Users\Tim\AppData\Roaming/yuzu/sdmc/
+[ 515.738384] Config <Info> common\settings.cpp:operator ():34: Debugging_ProgramArgs: 
+[ 515.738384] Config <Info> common\settings.cpp:operator ():34: Input_EnableMotion: true
+[ 515.738385] Config <Info> common\settings.cpp:operator ():34: Input_EnableVibration: false
+[ 515.738387] Config <Info> common\settings.cpp:operator ():34: Input_EnableRawInput: false
+[ 515.744220] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 515.859919] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:382: Device doesn't support float16 natively
+[ 515.859922] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:389: Device doesn't support viewport swizzles
+[ 515.859923] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:393: Device doesn't support viewport masks
+[ 515.859923] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:397: Device doesn't support passthrough geometry shaders
+[ 515.859927] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:421: Device doesn't support uint8 indexes
+[ 515.859927] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:476: Device doesn't support smooth lines
+[ 515.859928] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:480: Device doesn't support conservative rasterization
+[ 515.859929] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:493: Device doesn't support provoking vertex last
+[ 515.859929] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:Device:505: Device doesn't support vertex input dynamic state
+[ 515.907159] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:Device:602: AMD GCN4 and earlier do not properly support VK_IMAGE_CREATE_CUBE_COMPATIBLE_BIT
+[ 515.907163] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:Device:611: Blacklisting AMD GCN4 and earlier for VK_EXT_sampler_filter_minmax
+[ 515.968214] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:181: Driver: AMD proprietary driver 2.0.193
+[ 515.968219] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:182: Device: Radeon RX 580 Series
+[ 515.968219] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:183: Vulkan: 1.2.182
+[ 516.132216] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:126: Patching ExeFS for title_id=0100E65002BB8000
+[ 516.132839] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:151:     ExeFS: Update (v0.10.0) applied successfully
+[ 516.678363] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:295: Querying NSO patch existence for build_id=C1ED34FD7D1962277A4555D9EC7146571218ED5D
+[ 517.173949] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:295: Querying NSO patch existence for build_id=5EDB1E8E3D3C0F73819AD7A6A2400D676FEDEEB6
+[ 517.288987] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:295: Querying NSO patch existence for build_id=D9ADD76FC264863D85FBBD1D70076C76ADD320CB
+[ 517.344173] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 517.344590] Frontend <Info> yuzu\main.cpp:BootGame:1442: Booting game: 0100E65002BB8000 | Stardew Valley (64-bit) | 1.5.4
+[ 517.345829] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:LoadDiskResources:450: Total Pipeline Count: 6
+[ 517.345876] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0x022ebea03d0fb7a6
+[ 517.345883] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0xde8f64e8ab86907e
+[ 517.345943] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0xc91de9572473d5c4
+[ 517.345986] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0x28a1eac28a560f76
+[ 517.346021] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0xff92ab4200361e8b
+[ 517.346039] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:505: 0x6ac6260c1a0b4edc
+[ 517.347259] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:GetSupportedFormat:653: Emulating format=129 with alternative format=130 with usage=49665 and type=1
+[ 517.600386] Kernel <Warning> core\hle\kernel\k_process.cpp:GetTotalPhysicalMemoryAvailable:178: capacity 3426447360 != application pool size 3444572160
+[ 517.605867] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.611354] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.618090] Service.AM <Warning> core\hle\service\am\am.cpp:GetGpuErrorDetectedSystemEvent:1750: (STUBBED) called
+[ 517.623158] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:741: (STUBBED) called
+[ 517.623707] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:99: (STUBBED) called
+[ 517.624179] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:437: (STUBBED) called. unknown0=0, unknown1=0, unknown2=1
+[ 517.624552] Service.AM <Warning> core\hle\service\am\am.cpp:SetOutOfFocusSuspendingEnabled:456: (STUBBED) called enabled=false
+[ 517.626099] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.627364] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.629836] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.630156] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.630793] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 517.631719] Kernel <Warning> core\hle\kernel\k_process.cpp:GetTotalPhysicalMemoryAvailable:178: capacity 3426447360 != application pool size 3444572160
+[ 517.695036] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 517.696098] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.697610] Kernel <Error> core\hle\kernel\svc.cpp:MapSharedMemory:1197: Failed with result: 56321
+[ 517.699611] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 517.702949] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:415: Patching RomFS for title_id=0100E65002BB8000, type=01
+[ 517.703612] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 517.706717] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:415: Patching RomFS for title_id=0100E65002BB8000, type=01
+[ 517.707246] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 517.715241] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 517.717815] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 518.372811] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 518.375177] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 518.388549] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 518.388749] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 518.435914] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 518.436222] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 518.718780] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:Initialize:159: (STUBBED) called
+[ 518.721724] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetAruid:204: (STUBBED) called, pid=0x54
+[ 518.722811] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetGraphicsFirmwareMemoryMarginEnabled:212: (STUBBED) called
+[ 518.727154] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetManagerDisplayService:975: (STUBBED) called
+[ 518.727939] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetSystemDisplayService:967: (STUBBED) called
+[ 518.728346] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetRelayService:959: (STUBBED) called
+[ 518.732093] Service.VI <Warning> core\hle\service\vi\vi.cpp:OpenDisplay:991: (STUBBED) called
+[ 518.733276] Service.AM <Warning> core\hle\service\am\am.cpp:CreateManagedDisplaySeparableLayer:483: (STUBBED) called
+[ 518.737174] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:659: (STUBBED) called id=1, addval=00000001, type=00000000
+[ 518.737587] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:659: (STUBBED) called id=1, addval=00000001, type=00000001
+[ 518.740051] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:670: (STUBBED) called id=1, unknown=0000000F
+[ 518.742239] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:408: (STUBBED) called flag=true
+[ 518.773941] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:QuerySystemEvent:129: (STUBBED) called
+[ 518.784206] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:Start:111: (STUBBED) called
+[ 518.842252] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 518.842924] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 519.197266] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 519.198398] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 519.289003] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 519.290501] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 519.459159] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 519.460436] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 519.657223] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 519.658721] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 519.671778] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 519.673445] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 519.673888] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoRestricted:745: (Partial implementation) called
+[ 519.673891] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoBase:789: ApplicationInfo init required
+[ 519.683275] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:437:     RomFS: Update (v0.10.0) applied successfully
+[ 519.730485] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 519.743103] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:QueryEvent:172: (STUBBED) called, fd=1, event_id=2
+[ 519.744910] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:AllocAsEx:88: (STUBBED) called, big_page_size=0x10000
+[ 519.745080] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:GetVARegions:284: (STUBBED) called, buf_addr=0, buf_size=0
+[ 519.745577] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:GetVARegions:312: (STUBBED) called, buf_addr=0, buf_size=30
+[ 519.754168] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.756004] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.758584] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.763160] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:BindChannel:273: (STUBBED) called, fd=4
+[ 519.763625] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocGPFIFOEx2:162: (STUBBED) called, num_entries=800, flags=1, unk0=0, unk1=0, unk2=0, unk3=0
+[ 519.763875] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocateObjectContext:176: (STUBBED) called, class_num=B197, flags=0
+[ 519.764033] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeout:310: called, timeout=0x266
+[ 519.764458] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:QueryEvent:172: (STUBBED) called, fd=4, event_id=3
+[ 519.764645] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SetErrorNotifier:142: (STUBBED) called, offset=0, size=1000, mem=3
+[ 519.765532] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeslice:318: called, timeslice=0x400
+[ 519.765904] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.766266] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.768389] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.768751] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.781860] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 519.782778] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.782781] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.782782] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.782783] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.782784] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.782784] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.783732] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.784122] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.784817] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784819] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784821] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784821] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784822] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784823] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784823] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784824] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784826] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784827] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784828] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784828] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784829] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784830] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784831] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784831] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784832] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784833] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784833] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784834] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784835] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784835] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.784836] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:403: (STUBBED) called
+[ 519.787315] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.787686] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.788138] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.789751] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.790121] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.790634] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.791844] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.792221] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.792589] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 519.798310] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:59: (STUBBED) called
+[ 519.799715] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:Query:181: (STUBBED) called type=2
+[ 519.804837] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocGetId:149: called
+[ 519.809083] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:SetPreallocatedBuffer:29: Adding graphics buffer 0
+[ 519.809879] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocGetId:149: called
+[ 519.809919] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:SetPreallocatedBuffer:29: Adding graphics buffer 1
+[ 519.971049] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 519.972709] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.029790] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.031416] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.049793] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.051331] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.071634] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.073312] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.084616] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.086351] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.104924] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.106544] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.122412] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.124038] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.138696] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.140352] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.146967] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.148426] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.173148] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.174750] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.195015] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.196551] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.218236] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.219859] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.239211] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.240816] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.301428] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.303063] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.328831] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.330599] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.362550] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.364161] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.396362] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.397988] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.429078] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.430720] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.473129] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.474678] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.508464] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.510115] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.584675] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.586372] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.662262] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.663898] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.733812] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.735429] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 520.918938] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 520.920448] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.084406] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.086010] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.148136] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.149753] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.209392] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.211073] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.324860] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.326402] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.383131] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.384753] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.620089] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.621736] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 521.860843] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 521.862552] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.076458] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.078071] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.294574] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.296213] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.515804] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.517474] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.727720] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.729359] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.793900] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.795589] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 522.974195] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 522.975903] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 523.188745] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 523.190357] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 523.302055] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.302491] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.302907] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.304293] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.304696] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.305087] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.338767] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.441162] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 523.443840] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 523.492271] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.492665] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.538033] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.538423] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.622140] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.622556] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.666863] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.667258] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.671298] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 523.673728] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 523.797546] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.797943] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.907769] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 523.911471] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 523.916498] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.916906] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.932568] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.932974] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202: (STUBBED) called type=1
+[ 523.938713] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000006F9
+[ 523.941675] Service.APM <Info> core\hle\service\apm\apm_controller.cpp:SetClockSpeed:84: called, mhz=000003FC
+[ 524.062276] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocParam:202
